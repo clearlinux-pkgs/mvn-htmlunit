@@ -4,7 +4,7 @@
 #
 Name     : mvn-htmlunit
 Version  : 2.18
-Release  : 1
+Release  : 2
 URL      : https://github.com/HtmlUnit/htmlunit/archive/HtmlUnit-2.18.tar.gz
 Source0  : https://github.com/HtmlUnit/htmlunit/archive/HtmlUnit-2.18.tar.gz
 Source1  : https://repo1.maven.org/maven2/net/sourceforge/htmlunit/htmlunit/2.18/htmlunit-2.18.jar
